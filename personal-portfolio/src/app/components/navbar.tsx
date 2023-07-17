@@ -24,7 +24,7 @@ export function Navigation() {
           ))}
         </ul>
       </nav>
-      <div className="h-px bg-gray-200 w-full mx-auto rounded-md"> &nbsp;</div>
+      <div className="h-px bg-gray-100 w-full mx-auto rounded-md"> &nbsp;</div>
     </header>
   );
 }
